@@ -5,10 +5,17 @@
   height: 50px;
   background: url("../../../images/vector-add.svg") no-repeat center transparent;
   border: white 2px solid;
+  margin-right: 0;
+  cursor: pointer;
 }
 .profile__button-add:hover {
   opacity: 0.6;
   transition: opacity 0.3s ease;
+}
+@media screen and (max-width: 1024px) {
+  .profile__button-add {
+    margin-left: auto;
+  }
 }
 @media screen and (max-width: 767px) {
   .profile__button-add {

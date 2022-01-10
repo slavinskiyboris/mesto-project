@@ -6,6 +6,7 @@
   margin-bottom: 30px;
   background: url("../../../images/like.svg") center no-repeat;
   border-color: transparent;
+  cursor: pointer;
 }
 .element__button-like:hover {
   opacity: 0.5;

@@ -20,4 +20,4 @@
 
 **Ссылка на Github Pages**
 
-* https://slavinskiyboris.github.io/mesto/
+* https://slavinskiyboris.github.io/mesto-project/

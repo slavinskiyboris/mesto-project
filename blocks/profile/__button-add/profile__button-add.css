@@ -7,10 +7,11 @@
   border: white 2px solid;
   margin-right: 0;
   cursor: pointer;
+  border-radius: 2px;
+  transition: opacity 0.3s ease;
 }
 .profile__button-add:hover {
   opacity: 0.6;
-  transition: opacity 0.3s ease;
 }
 @media screen and (max-width: 1024px) {
   .profile__button-add {
@@ -21,7 +22,6 @@
   .profile__button-add {
     min-width: 282px;
     background-size: 16px;
-    margin-left: auto;
     margin-right: auto;
     margin-top: 0;
   }

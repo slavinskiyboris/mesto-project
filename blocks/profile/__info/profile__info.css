@@ -1,6 +1,5 @@
 .profile__info {
   margin-top: 22px;
-  position: relative;
 }
 @media screen and (max-width: 1024px) {
   .profile__info {

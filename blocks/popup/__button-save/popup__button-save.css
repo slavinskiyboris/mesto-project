@@ -7,6 +7,10 @@
   color: #fff;
   font-size: 1.125em;
   line-height: 22px;
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
 }
 .popup__button-save:hover {
   opacity: 0.8;

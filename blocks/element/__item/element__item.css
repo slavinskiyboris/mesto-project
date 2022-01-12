@@ -1,4 +1,4 @@
-.element_item {
+.element__item {
   display: flex;
   justify-content: space-between;
 }
